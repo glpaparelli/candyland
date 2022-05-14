@@ -1,9 +1,9 @@
 # Candyland
-***WARNING:*** This code is written for exercise and for personal use only. The authors, the contributors and whoever may be involved decline any responsability for any illegal use of the program and any of its future derivations
-
 Candyland is a framework for manga/comics download through web scraping. 
 
-It exploits the [Strategy]([Strategy pattern - Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)) Design Pattern to be extendible and to allow the definition of new scrapers to support other sites. 
+It exploits the [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern) Design Pattern to be extendible and to allow the definition of new scrapers to support other sites. 
+
+***WARNING:*** This code is written for exercise and for personal use only. The authors, the contributors and whoever may be involved decline any responsability for any illegal use of the program and any of its future derivations
 
 ## How to Use
 - To download a manga: 
@@ -14,7 +14,7 @@ It exploits the [Strategy]([Strategy pattern - Wikipedia](https://en.wikipedia.o
 
 ## Supported Sites
 - **manga:**
-	- *pocky*: [MangaPill](https://mangapill.com/))
+	- *pocky*: [MangaPill](https://mangapill.com/)
 - **comics:**
 	- *skittles (todo):* [ComicExtra](https://www.comicextra.com/)
 
