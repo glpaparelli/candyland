@@ -28,9 +28,9 @@ Either way the new scraper has to extend the class `Candy` and to implement the 
 - `__init__(self)`: the field `domain` has to defined and it has to contain the url of the site the scraper is about
 - `search(self, name)`:
 	- `name` is the manga/comics title passed by the user
-	- this method return a pair $<reading\_material\_name, url>$ where:
-		- $reading\_material\_name$ is the real name of the comics/manga, extracted by the result of the site search  
-		- $url$ is the url of the comics/manga
+	- this method return a pair <reading_material_name, url> where:
+		- `reading_material_name` is the real name of the comics/manga, extracted by the result of the site search  
+		- `url` is the url of the comics/manga
 - `get_chapter_urls(self, reading_material_url)`:
 	- `reading_material_url` is the url about the searched comic/manga
 	- this method return a list of urls about the chapters of the searched comics/manga
