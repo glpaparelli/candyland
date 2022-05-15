@@ -7,10 +7,10 @@ It exploits the [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern) Desig
 
 ## How to Use
 - To download a manga: 
-	- `python3 candyland manga <name of the manga>`
+	- `python3 candyland manga "name of the manga"`
 - To download a comic:
 	- *not supported yet*
-	- `python3 candyland comics <name of the comic>`
+	- `python3 candyland comics "name of the comic"`
 
 ## Supported Sites
 - **manga:**
